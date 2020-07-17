@@ -1,4 +1,5 @@
 /*OM NAMAH SHIVAY!*/
+#include<bits/stdc++.h>
 using namespace std;
 int main()
  {
