@@ -1,3 +1,4 @@
+/*OM NAMAH SHIVAY!*/
 #include <iostream>
 using namespace std;
 
