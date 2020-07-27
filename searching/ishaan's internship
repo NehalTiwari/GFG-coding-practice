@@ -1,0 +1,25 @@
+/*OM NAMAH SHIVAY!*/
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	int t;
+	cin>>t;
+	while(t--){
+	    long long int n,k;
+	    cin>>n>>k;
+	   
+	    long long int s=0;
+	   
+	    while(n>=k){
+	        n=n/k;
+	        s++;
+	       
+	    }
+	  long long int p;
+	  p=pow(k,s);
+	    cout<<p<<endl;
+	   
+	}
+	return 0;
+}
